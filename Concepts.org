@@ -1,0 +1,15 @@
+#+TITLE: Blockchain Concepts
+
+* Distributed systems
+** CAP Theorem
+States that any distributed system cannot have *Consistency*, *Availability*
+and *Partition tolerance* simultaneously.
+*** Consistency:
+- a property that ensures that all nodes in a distributed systems have a
+single latest copy of data.
+*** Availability:
+- means that a system is up, accesible for use, and is accepting incoming
+requests and responding with data without any failures and when required.
+*** Partitin Tolerance:
+- ensures that if a group of nodes fails the distributed system continues to
+operate correctly.
