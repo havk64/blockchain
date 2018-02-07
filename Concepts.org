@@ -19,7 +19,7 @@ operate correctly.
 - Process of agreement between distrusting nodes on a final state of data.
 *** Distributed Consensus:
 - The concept of achieving consensus between multiple/distributed nodes.
-*** Consensus mechanisms:
+*** Requirements for consensus mechanisms:
 **** Agreement:
 **** Termination:
 **** Validity:
