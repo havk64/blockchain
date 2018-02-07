@@ -14,7 +14,7 @@ requests and responding with data without any failures and when required.
 - ensures that if a group of nodes fails the distributed system continues to
 operate correctly.
 
-** Bizantine Generals problem
+** Byzantine Generals problem
 *** Consensus:
 - Process of agreement between distrusting nodes on a final state of data.
 *** Distributed Consensus:
