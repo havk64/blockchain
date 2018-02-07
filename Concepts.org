@@ -34,3 +34,12 @@ malicious nodes (Byzantine nodes).
 **** Integrity:
 - This is a requirement where by no node makes the decision more than once.
 The nodes make decisions only once in a single consensus cycle.
+*** Types of consensus mechanism
+**** Byzantine fault tolerant-based:
+- Simple scheme of nodes that are publishing signed messages with no compute
+intensive operations. Eventually, when a certain number of messages are received,
+then an agreement is reached.
+**** Leader-based consensus mechanisms:
+- Require nodes to compete for the /leader-election lottery/ and the node that
+wins it proposes a final value.
+
