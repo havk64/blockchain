@@ -21,7 +21,16 @@ operate correctly.
 - The concept of achieving consensus between multiple/distributed nodes.
 *** Requirements for consensus mechanisms:
 **** Agreement:
+- All honest nodes decide on the same value.
 **** Termination:
+- All honest nodes terminate execution of the consensus process and eventually
+reach a decision.
 **** Validity:
+- The value agreed upon by all honest nodes must be the same as the initial
+value proposed by at least one honest node.
 **** Fault tolerant:
+- The consensus algorithm should be able to run in the presence of faulty or
+malicious nodes (Byzantine nodes).
 **** Integrity:
+- This is a requirement where by no node makes the decision more than once.
+The nodes make decisions only once in a single consensus cycle.
