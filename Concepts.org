@@ -43,3 +43,13 @@ then an agreement is reached.
 - Require nodes to compete for the /leader-election lottery/ and the node that
 wins it proposes a final value.
 
+** Eletronic Cash
+*** Chaum, Fiat, and Naor (CEN)
+- A e-cash scheme that introduced anonimity and double spending detection.
+*** Hashcash
+- Introduced by Adam Back in 1997 as a Proof of Work system to control email spam.
+If legitimate users want to send e-mails then they are required to compute a hash
+as a proof that they have spent a reasonable amount of computing resources before
+sending the email.
+- Takes considerable amount of computing resources to compute but is easy and
+quick to verify.
