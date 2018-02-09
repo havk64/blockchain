@@ -54,3 +54,18 @@ as a proof that they have spent a reasonable amount of computing resources befor
 sending the email.
 - Takes considerable amount of computing resources to compute but is easy and
 quick to verify.
+*** B-money
+- Introduced in 1998 by Wei Dai. Proposed the idea of create money solving
+*computational puzzles* such as *hashcash*. Based on a peer-to-peer network where
+each node contain its own list of transactions.
+*** BitGold
+- Introduced in 2005 and also proposed solving *computational puzzles* to mint
+digital currency.
+*** Bitcoin
+- The first practical implementation of implementation of a cryptocurrency. For
+the very first time it solved the problem of *distributed consensus* in a
+*trustless* network.
+- It uses public key cryptography with hashcash as PoW to provide a secure,
+controlled, and decentralized method of minting digital currency. The key
+innovation is the idea of an ordered list of blocks composed of transactions
+and cryptographically secured by the PoW mechanism 
