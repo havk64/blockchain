@@ -43,6 +43,7 @@ then an agreement is reached.
 - Require nodes to compete for the /leader-election lottery/ and the node that
 wins it proposes a final value.
 
+* History of Blockchain
 ** Eletronic Cash
 *** Chaum, Fiat, and Naor (CEN)
 - A e-cash scheme that introduced anonimity and double spending detection.
