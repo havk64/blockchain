@@ -102,3 +102,11 @@ structure of a block is also dependent on the type and design of a blockchain,
 but generally there are a few attributes that are essential to the functionality
 of a block, such as the block header, pointers to previous blocks, the time stamp,
 nonce, transaction counter, transactions, and other attributes
+
+|---------------------|
+| Previous block hash |
+|---------------------|
+| Nonce               |
+|---------------------|
+| Transactions        |
+|---------------------|
