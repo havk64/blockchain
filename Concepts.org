@@ -69,3 +69,26 @@ the very first time it solved the problem of *distributed consensus* in a
 controlled, and decentralized method of minting digital currency. The key
 innovation is the idea of an ordered list of blocks composed of transactions
 and cryptographically secured by the PoW mechanism 
+
+* Introduction to Blockchain
+*** Blockchain definitions
+- At its core is a peer-to-peer distributed ledger that is cryptographically
+secure, append-only, immutable (extremely hard to change), and updateable only
+via consensus or agreement among peers.
+- Can be thought of as a layer of a distributed peer-to-peer network running on
+top of the Internet, as can be seen below in the diagram.
+It is analogous to SMTP, HTTP, or FTP running on top of TCP/IP. 
+- a platform whereby peers can exchange values using transactions without the
+need for a central trusted arbitrator. This is a powerful concept and once readers
+understand it they will realize the tsunamic potential of blockchain technology.
+This allows blockchain to be a decentralized consensus mechanism where no single
+authority is in charge of the database.
+- Is a decentralized consensus mechanism. In a blockchain, all peers eventually
+come to an agreement regarding the state of a transaction.
+- Is a distributed shared ledger. Blockchain can be considered a shared ledger
+of transactions. The transaction are ordered and grouped into blocks. Currently,
+the real-world model is based on private databases that each organization
+maintains whereas the distributed ledger can serve as a single source of truth
+for all member organizations that are using the blockchain
+- Is a data structure; it is basically a linked list that uses hash pointers
+instead of normal pointers. Hash pointers are used to point to the previous block.
