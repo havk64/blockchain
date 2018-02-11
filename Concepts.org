@@ -71,7 +71,7 @@ innovation is the idea of an ordered list of blocks composed of transactions
 and cryptographically secured by the PoW mechanism 
 
 * Introduction to Blockchain
-*** Blockchain definitions
+** Blockchain definitions
 - At its core is a peer-to-peer distributed ledger that is cryptographically
 secure, append-only, immutable (extremely hard to change), and updateable only
 via consensus or agreement among peers.
@@ -92,7 +92,7 @@ maintains whereas the distributed ledger can serve as a single source of truth
 for all member organizations that are using the blockchain
 - Is a data structure; it is basically a linked list that uses hash pointers
 instead of normal pointers. Hash pointers are used to point to the previous block.
-*** Block definitions
+** Block definitions
 - a selection of transactions bundled together in order to organize them logically
 It is made up of transactions and its size is variable depending on the type and
 design of the blockchain in use. A reference to a previous block is also included
