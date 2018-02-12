@@ -131,4 +131,12 @@ nonce, transaction counter, transactions, and other attributes
 *** Immutability
 *** Uniqueness
 *** Smart contracts
+** Applications of Blockchain
+*** How Blockchain accumulate blocks
+** Tiers of Blockchain Technology
+*** Blockchain 1.0
+*** Blockchain 2.0
+*** Blockchain 3.0
+*** Generation X (Blockchain X)
+
 
