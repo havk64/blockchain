@@ -138,5 +138,17 @@ nonce, transaction counter, transactions, and other attributes
 *** Blockchain 2.0
 *** Blockchain 3.0
 *** Generation X (Blockchain X)
+** Types of Blockchain
+*** Public Blockchains
+*** Private Blockchains
+*** Semi-private Blockchains
+*** Sidechains
+*** Permissioned ledger
+*** Distributed ledger
+*** Shared ledger
+*** Fully private and proprietary Blockchains
+*** Tokenized Blockchains
+*** Tokenless Blockchains
+*** Consensus in Blockchain
 
 
