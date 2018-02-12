@@ -110,3 +110,13 @@ nonce, transaction counter, transactions, and other attributes
 |---------------------|
 | Transactions        |
 |---------------------|
+** Generic Elements of Blockchain
+*** Addresses
+*** Transaction
+*** Block
+*** Peer-to-peer network
+*** Scripting or programming language
+*** Virtual machine
+*** State machine
+*** Nodes
+*** Smart contracts
