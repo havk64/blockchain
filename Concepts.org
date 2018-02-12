@@ -120,3 +120,15 @@ nonce, transaction counter, transactions, and other attributes
 *** State machine
 *** Nodes
 *** Smart contracts
+** Features of Blockchain
+*** Distributed consensus
+*** Transaction verification
+*** Platform of smart contracts
+*** Transfering value between peers
+*** Generating cryptocurrency
+*** Smart property
+*** Provider of security
+*** Immutability
+*** Uniqueness
+*** Smart contracts
+
