@@ -92,7 +92,7 @@ maintains whereas the distributed ledger can serve as a single source of truth
 for all member organizations that are using the blockchain
 - Is a data structure; it is basically a linked list that uses hash pointers
 instead of normal pointers. Hash pointers are used to point to the previous block.
-** Block definitions
+*** Block definitions
 - a selection of transactions bundled together in order to organize them logically
 It is made up of transactions and its size is variable depending on the type and
 design of the blockchain in use. A reference to a previous block is also included
