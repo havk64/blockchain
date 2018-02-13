@@ -125,10 +125,27 @@ previous block hash (hash pointer), timestamp, and nonce.
 - As the name implies, this is a network topology whereby all peers can
 communicate with each other and send and receive messages.
 *** Scripting or programming language
+- This element performs various operations on a transaction. Transaction scripts
+are predefined sets of commands for nodes to transfer tokens from one address to
+another and perform various other functions. Turing complete programming language
+is a desirable feature of blockchains; however, the security of such languages is
+a key question and an area of important and ongoing research.
 *** Virtual machine
+- An extension of a transaction script. A virtual machine allows Turing complete
+code to be run on a blockchain (as smart contracts) whereas a transaction script
+can be limited in its operation.
+Examples: Ethereum Virtual Machine (EVM) and Chain Virtual Machine (CVM).
 *** State machine
+- A blockchain can be viewed as a state transition mechanism whereby a state is
+modified from its initial form to the next and eventually to a final form as a
+result of a transaction execution and validation process by nodes.
 *** Nodes
+- Performs various functions depending on the role it takes. A node can propose
+and validate transactions and perform mining to facilitate consensus and secure
+the blockchain - consensus protocol.
 *** Smart contracts
+- Run on top of the blockchain and encapsulate the business logic to be executed
+when certain conditions are met.
 ** Features of Blockchain
 *** Distributed consensus
 *** Transaction verification
