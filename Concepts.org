@@ -112,9 +112,18 @@ nonce, transaction counter, transactions, and other attributes
 |---------------------|
 ** Generic Elements of Blockchain
 *** Addresses
+- Are unique identifiers that are used in a transaction on the
+blockchain to denote senders and recipients. An address is usually a public key
+or derived from a public key.
 *** Transaction
+- Is the fundamental unit of a blockchain. A transaction represents a transfer of
+value from one address to another.
 *** Block
+-  Is composed of multiple transactions and some other elements such as the
+previous block hash (hash pointer), timestamp, and nonce.
 *** Peer-to-peer network
+- As the name implies, this is a network topology whereby all peers can
+communicate with each other and send and receive messages.
 *** Scripting or programming language
 *** Virtual machine
 *** State machine
