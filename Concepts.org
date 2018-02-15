@@ -148,7 +148,13 @@ the blockchain - consensus protocol.
 when certain conditions are met.
 ** Features of Blockchain
 *** Distributed consensus
+- Is a major underpining of Blockchain. This enables Blockchain to present a 
+single version of truth that is agreed upon by all parties without the
+requirement of a centra authority.
 *** Transaction verification
+- Any transations posted from nodes on the blockchain are verified based on a
+predetermined set of rules and only valid transactions are selected for inclusion
+in a block.
 *** Platform of smart contracts
 *** Transfering value between peers
 *** Generating cryptocurrency
