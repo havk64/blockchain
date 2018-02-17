@@ -164,6 +164,8 @@ thought as carrier of value.
 - A Blockchain can generate cryptocurrency as an incentive to its miners who 
 validate the transactions and spend resources in order to secure the blockchain.
 *** Smart property
+- Possibility of link a digital physical asset to the blockchain in an irrevocable
+manner, such that it cannot be claimed by anyone else.
 *** Provider of security
 *** Immutability
 *** Uniqueness
