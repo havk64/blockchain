@@ -170,6 +170,7 @@ manner, such that it cannot be claimed by anyone else.
 - Blockchain is based on proven cryptographic  technology that ensures the
 integrity and availability of data.
 *** Immutability
+- Records once added onto blockchain are immutable.
 *** Uniqueness
 *** Smart contracts
 ** Applications of Blockchain
