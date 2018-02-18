@@ -174,6 +174,9 @@ integrity and availability of data.
 *** Uniqueness
 - Ensures that every transaction is unique and has not been spent already.
 *** Smart contracts
+- Automated autonomous programs that reside on blockchain and encapsulate
+business logic and code in order to execute a required function when certain
+conditions are met.
 ** Applications of Blockchain
 *** How Blockchain accumulate blocks
 ** Tiers of Blockchain Technology
