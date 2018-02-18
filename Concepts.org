@@ -172,6 +172,7 @@ integrity and availability of data.
 *** Immutability
 - Records once added onto blockchain are immutable.
 *** Uniqueness
+- Ensures that every transaction is unique and has not been spent already.
 *** Smart contracts
 ** Applications of Blockchain
 *** How Blockchain accumulate blocks
