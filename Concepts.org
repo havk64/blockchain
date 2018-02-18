@@ -167,6 +167,8 @@ validate the transactions and spend resources in order to secure the blockchain.
 - Possibility of link a digital physical asset to the blockchain in an irrevocable
 manner, such that it cannot be claimed by anyone else.
 *** Provider of security
+- Blockchain is based on proven cryptographic  technology that ensures the
+integrity and availability of data.
 *** Immutability
 *** Uniqueness
 *** Smart contracts
