@@ -210,5 +210,14 @@ final.
 *** Tokenized Blockchains
 *** Tokenless Blockchains
 *** Consensus in Blockchain
+**** Proof of Work
+**** Proof of Stake
+**** Delegated Proof of Stake
+**** Proof of Elapsed Time
+**** Deposit-based consensus
+**** Proof of importance
+**** Federated consensus of federated Byzantine consensus
+**** Reputation-based mechanisms
+**** Pratical Byzantine Fault Tolerance
 
 
