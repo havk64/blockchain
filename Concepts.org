@@ -179,6 +179,20 @@ business logic and code in order to execute a required function when certain
 conditions are met.
 ** Applications of Blockchain
 *** How Blockchain accumulate blocks
+1. A node starts a transaction by signing it with its private key.
+2. The transaction is propagated (flooded) by using much desired Gossip protocol
+to peers, which validates the transaction based on pre-set criteria. Usually,
+more than one node is required to validate the transactions.
+3. Once the transaction is validated, it is included in a block, which is then
+propagated on to the network. At this point, the transaction is considered
+confirmed.
+4. The newly created block now becomes part of the ledger and the next block
+links itself cryptographically back to this block. This link is a hash pointer.
+At this stage, the transaction gets its second confirmation and the block gets
+its first.
+5. Transactions are then reconfirmed every time a new block is created. Usually,
+six confirmations in the bitcoin network are required to consider the transaction
+final.
 ** Tiers of Blockchain Technology
 *** Blockchain 1.0
 *** Blockchain 2.0
