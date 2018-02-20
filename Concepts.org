@@ -195,8 +195,14 @@ six confirmations in the bitcoin network are required to consider the transactio
 final.
 ** Tiers of Blockchain Technology
 *** Blockchain 1.0
+- Intruduced with bitcoin and basically for cryptocurrencies.
 *** Blockchain 2.0
+- Used for financial services and contracts. Derivatives, swaps and bonds.
+Applications beyond currency, finance and markets are included at this tier.
 *** Blockchain 3.0
+- Implement applications that are beyond the financial services industry and are
+mmore general purpose industries such as government, health, media, arts and
+justice.
 *** Generation X (Blockchain X)
 ** Types of Blockchain
 *** Public Blockchains
