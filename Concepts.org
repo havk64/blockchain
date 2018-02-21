@@ -204,6 +204,11 @@ Applications beyond currency, finance and markets are included at this tier.
 mmore general purpose industries such as government, health, media, arts and
 justice.
 *** Generation X (Blockchain X)
+- Future of blockchain. Provide services in all realms of society.
+Public open distributed ledger with general-purpose rational agents (Machina
+Economicus) running on Blockchain, making decisions and interacting with other
+intelligent autonomous agents on behalf of humans and regulated by code instead
+of law or paper contracts.
 ** Types of Blockchain
 *** Public Blockchains
 *** Private Blockchains
