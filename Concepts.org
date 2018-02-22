@@ -211,8 +211,15 @@ intelligent autonomous agents on behalf of humans and regulated by code instead
 of law or paper contracts.
 ** Types of Blockchain
 *** Public Blockchains
+- Open to the public and anyone can participate as a node in decision-making
+process. Users may or may not be rewarded for their participation.
+Also known as permission-less ledgers.
 *** Private Blockchains
+- Private and open only to a consortium or group of individuals or organizations
+that has decided to share the ledger among themselves.
 *** Semi-private Blockchains
+- Part is private, part is public. Private part is controlled by a group of
+individuals whereas public one is open.
 *** Sidechains
 *** Permissioned ledger
 *** Distributed ledger
