@@ -221,7 +221,13 @@ that has decided to share the ledger among themselves.
 - Part is private, part is public. Private part is controlled by a group of
 individuals whereas public one is open.
 *** Sidechains
+- Or pegged sidechains. Concept whereby coins can be moved from one blockchain
+to another and moved back.
 *** Permissioned ledger
+- Is a Blockchain whereby the participants of the network are known and already
+trusted. Don't need to use the consensus mechanism, instead an agreement protocol
+can be used to maintain a shared version of the truth about the state of the
+records. It don't need to be private but public with regulated access control.
 *** Distributed ledger
 *** Shared ledger
 *** Fully private and proprietary Blockchains
