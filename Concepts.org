@@ -236,8 +236,16 @@ contiguously instead of sorted into blocks. Used in Ripple.
 - Generic term used to describe any database or application that is shared
 by the public or a consortium.
 *** Fully private and proprietary Blockchains
+- Have no mainstream application because it deviates from the core idea of
+decentralization on Blockchain. There might be a need of share the data within
+an organization to provide some level of guarantee of the authenticity of the
+data.
 *** Tokenized Blockchains
+- Are the standard blockchains that generate cryptocurrency as result of consensus
+process via mining or via initial distribution.
 *** Tokenless Blockchains
+- Lacks the basic unit of transfer of value. Only requires sharing data among
+already trusted parties.
 *** Consensus in Blockchain
 **** Proof of Work
 **** Proof of Stake
