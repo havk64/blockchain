@@ -229,7 +229,12 @@ trusted. Don't need to use the consensus mechanism, instead an agreement protoco
 can be used to maintain a shared version of the truth about the state of the
 records. It don't need to be private but public with regulated access control.
 *** Distributed ledger
+- Is distributed among its participants and spread across multiple sites or
+organizations. Can be either private or public. The records are stored
+contiguously instead of sorted into blocks. Used in Ripple.
 *** Shared ledger
+- Generic term used to describe any database or application that is shared
+by the public or a consortium.
 *** Fully private and proprietary Blockchains
 *** Tokenized Blockchains
 *** Tokenless Blockchains
