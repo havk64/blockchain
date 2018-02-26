@@ -261,6 +261,10 @@ proposing a value for acceptance by the network.
 Used by bitcoin and other cryptocurrencies. Proven to be effective against
 Sybil attack.
 **** Proof of Stake
+- Works on the idea that a node or user has enough stake on the system.
+The chances of propose and signing the next block increases with the *coin age*
+that is derived from the amount of time and number of coins that have
+not been spent.
 **** Delegated Proof of Stake
 **** Proof of Elapsed Time
 **** Deposit-based consensus
